@@ -91,37 +91,40 @@ Chargeable income
 Applicable exemptions or rebates
         ↓
 Indicative tax payable
+```
 
-Why Use a Tax Calculator?
+The example above is intentionally simplified. The actual tax calculation should use the company's applicable tax treatment and current IRAS guidance.
+
+## Why Use a Tax Calculator?
 
 A calculator can help business owners:
 
-Understand the basic tax calculation process.
-Estimate potential tax payable.
-Plan cash flow.
-Compare different profit scenarios.
-Identify questions to discuss with an accountant or tax professional.
+1. Understand the basic tax calculation process.
+2. Estimate potential tax payable.
+3. Plan cash flow.
+4. Compare different profit scenarios.
+5. Identify questions to discuss with an accountant or tax professional.
 
 It should not replace a proper tax computation.
 
-Important Considerations
+## Important Considerations
 
 Corporate tax can depend on factors including:
 
-Company tax residency
-Type of income earned
-Tax-deductible expenses
-Non-deductible expenses
-Capital allowances
-Tax exemptions
-Tax rebates
-Foreign income
-Tax incentives
-Applicable Year of Assessment
+- Company tax residency
+- Type of income earned
+- Tax-deductible expenses
+- Non-deductible expenses
+- Capital allowances
+- Tax exemptions
+- Tax rebates
+- Foreign income
+- Tax incentives
+- Applicable Year of Assessment
 
 For this reason, two companies with the same accounting profit may not necessarily have the same final tax position.
 
-Professional Tax Support
+## Professional Tax Support
 
 If you need help with corporate tax computation, tax filing or understanding your company's tax position, BSH Group provides tax services for Singapore businesses.
 
@@ -129,7 +132,7 @@ https://bshgroup.sg/tax-individual-and-corporate/
 
 Professional support can be particularly useful when your business has complex transactions, foreign income, significant deductions or other tax considerations.
 
-Official Singapore Tax Resources
+## Official Singapore Tax Resources
 
 For authoritative and current information, refer to IRAS:
 
@@ -139,7 +142,7 @@ Singapore corporate tax information:
 
 https://www.iras.gov.sg/taxes/corporate-income-tax
 
-Disclaimer
+## Disclaimer
 
 This calculator and documentation are provided for general informational and educational purposes only.
 
@@ -149,7 +152,7 @@ Tax treatment depends on the specific facts and circumstances of each company an
 
 Always verify important tax matters against current IRAS guidance or consult a qualified tax professional.
 
-About This Project
+## About This Project
 
 Singapore SME Business Tools is a collection of free online resources designed to help Singapore businesses, founders and company directors understand common business, tax and compliance requirements.
 
