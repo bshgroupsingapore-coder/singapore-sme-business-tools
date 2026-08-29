@@ -91,3 +91,70 @@ Chargeable income
 Applicable exemptions or rebates
         ↓
 Indicative tax payable
+
+Why Use a Tax Calculator?
+
+A calculator can help business owners:
+
+Understand the basic tax calculation process.
+Estimate potential tax payable.
+Plan cash flow.
+Compare different profit scenarios.
+Identify questions to discuss with an accountant or tax professional.
+
+It should not replace a proper tax computation.
+
+Important Considerations
+
+Corporate tax can depend on factors including:
+
+Company tax residency
+Type of income earned
+Tax-deductible expenses
+Non-deductible expenses
+Capital allowances
+Tax exemptions
+Tax rebates
+Foreign income
+Tax incentives
+Applicable Year of Assessment
+
+For this reason, two companies with the same accounting profit may not necessarily have the same final tax position.
+
+Professional Tax Support
+
+If you need help with corporate tax computation, tax filing or understanding your company's tax position, BSH Group provides tax services for Singapore businesses.
+
+https://bshgroup.sg/tax-individual-and-corporate/
+
+Professional support can be particularly useful when your business has complex transactions, foreign income, significant deductions or other tax considerations.
+
+Official Singapore Tax Resources
+
+For authoritative and current information, refer to IRAS:
+
+https://www.iras.gov.sg/
+
+Singapore corporate tax information:
+
+https://www.iras.gov.sg/taxes/corporate-income-tax
+
+Disclaimer
+
+This calculator and documentation are provided for general informational and educational purposes only.
+
+The results are indicative and should not be treated as legal, tax, accounting or professional advice.
+
+Tax treatment depends on the specific facts and circumstances of each company and may change when legislation, administrative guidance or tax rates change.
+
+Always verify important tax matters against current IRAS guidance or consult a qualified tax professional.
+
+About This Project
+
+Singapore SME Business Tools is a collection of free online resources designed to help Singapore businesses, founders and company directors understand common business, tax and compliance requirements.
+
+The project provides practical starting points for researching Singapore business obligations.
+
+BSH Group provides professional accounting, tax, bookkeeping, corporate secretarial and company incorporation services in Singapore.
+
+https://bshgroup.sg/
